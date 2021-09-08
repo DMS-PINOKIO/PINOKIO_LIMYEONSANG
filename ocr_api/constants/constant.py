@@ -14,5 +14,6 @@ PLATE_HEIGHT_PADDING = 1.5
 MIN_PLATE_RATIO = 3
 MAX_PLATE_RATIO = 10
 
-UPLOAD_FOLDER = 'D:/Programing/projects/PINOKIO_TEXT_DETECTOR/ocr_api/static/img/'
+# UPLOAD_FOLDER = 'D:/Programing/projects/PINOKIO_TEXT_DETECTOR/ocr_api/static/img/'
+UPLOAD_FOLDER = '/home/ubuntu/PINOKIO_LIMYEONSANG/ocr_api/static/img'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
